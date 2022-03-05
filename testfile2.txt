@@ -1,0 +1,1 @@
+Other file for test with Git. Hello again!
